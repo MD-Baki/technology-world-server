@@ -1,0 +1,139 @@
+[
+    {
+        "id": "01",
+        "course_name": "Web design",
+        "course_photo": "https://images.unsplash.com/photo-1621839673705-6617adf9e890?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1032&q=80",
+        "details": "A web designer designs the entire navigation system, text, files, images, audio, video where to be in which part of a website. So to become a skilled web designer requires long term practice under quality organization. That's why our web design course is designed to combine coding and creativity. Here every subject is taught by hand in class. Moreover, you are repeatedly familiarized with the entire process with homework or practice work. As a result, at the end of the course, you will be able to design a website yourself. And this certified web design course will serve as a reminder of your skills in your career.",
+        "options": [
+            "HTML5",
+            "CSS3",
+            "CSS3 Animation Effect",
+            "Bootstrap CSS",
+            "Tailwind CSS",
+            "JavaScript",
+            "JQuery",
+            "Marketplace Related Classes"
+        ],
+        "rating": "4.7",
+        "duration": "3 Months",
+        "project": "12+",
+        "course_fee": "5000"
+    },
+    {
+        "id": "02",
+        "course_name": "Web Development",
+        "course_photo": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+        "details": "Web development is the process of making the information stored on the web server as a website through the Internet and making it usable. So as long as there are websites, there will be demand for web development. That is why the scope of work of web developers is increasing day by day. That is why our course is designed with updated modules. Everything from basic SQL to building professional skills is covered here. By doing practical projects you can learn fast and build a smart portfolio during the course. And if you complete the course properly, you will get the course completion certificate.",
+        "options": [
+            "Simple website creation using HTML and CSS",
+            "Problem solving with JavaScript",
+            "JavaScript ES6",
+            "Create a calculator using JavaScript",
+            "Build full site using React JS",
+            "Create a single page website using React Router",
+            "professional website creation with React JS",
+            "Create server site",
+            "Firebase Authentication, TypeScript, Sass, Tailwind, Google Map api familiarity with many other tools"
+        ],
+        "rating": "4.8",
+        "duration": "5 Months",
+        "project": "14+",
+        "course_fee": "8000"
+    },
+    {
+        "id": "03",
+        "course_name": "Graphic Design",
+        "course_photo": "https://images.unsplash.com/photo-1626785774573-4b799315345d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80",
+        "details": "Being a successful graphic designer requires quality curriculum training as well as project-based work experience and a good understanding of the marketplace. So all these are included together in our course module. From the graphic design course you will learn to design any advertisement, banner, t-shirt design, product using Adobe Photoshop and Adobe Illustrator. Moreover, modern facilities are available for project based work.",
+        "options": [
+            "Invoice Template Design",
+            "Brochure Layout",
+            "Desk & Wall Calendar Design",
+            "Resume & Cover Letter Design",
+            "Image Clipping Mask",
+            "Banner / Poster Design",
+            "Web Banner Design",
+            "Logo and Typography Design",
+            "T-Shirt Design",
+            "Magazine Design"
+        ],
+        "rating": "4.5",
+        "duration": "6 Months",
+        "project": "20+",
+        "course_fee": "7000"
+    },
+    {
+        "id": "04",
+        "course_name": "UI/UX Design",
+        "course_photo": "https://images.unsplash.com/photo-1586717799252-bd134ad00e26?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+        "details": "Where an app or site can have what options are designed through UX/UI Design. Demand for UX/UI designers has also increased hundreds of times for smart work and good salary. So our course will cover you with basic sketching. Learn how to create a flowchart for designing a website, app or banner here. You will learn the use of trendy software Adobe XD and Figma for UX/UI from this course. Moreover, by completing the course projects, you can create your portfolio at the end of the course from the class itself. This portfolio will be the milestone of your skills at the beginning of your career.",
+        "options": [
+            "Sketch Principles",
+            "Wireframe design",
+            "App Design",
+            "Dashboard Design",
+            "UI Design Project",
+            "Storyboard Design",
+            "Design Heuristics",
+            "Landing Page Design",
+            "Real-World Project"
+        ],
+        "rating": "4.8",
+        "duration": "6 Months",
+        "project": "10+",
+        "course_fee": "8000"
+    },
+    {
+        "id": "05",
+        "course_name": "Digital Marketing",
+        "course_photo": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=815&q=80",
+        "details": "To be an efficient digital marketer you need to be well versed in digital platforms. And for that, everything you need to know is in our course. From basic keyword research and competitor analysis to SEO, social media marketing, affiliate marketing, everything is covered in our digital marketing course. Nowadays there are numerous e-commerce sites on the internet. It is necessary to know the right technique to bring in search engine ranking like various service pages. That's why e-commerce SEO and service page seo is in our course. So our digital marketing course can be your best choice to develop skills in online marketing techniques.",
+        "options": [
+            "Niche Selection",
+            "Competitor Analysis & Website Audit",
+            "On-Page Optimization",
+            "Google Webmaster Tool & Analytics",
+            "Facebook Advanced Audience Targeting",
+            "Facebook Paid Campaign",
+            "YouTube Competitor Analysis",
+            "YouTube Monetization",
+            "Keyword Research (AdSense, Affiliate, Service)",
+            "Facebook Ads Quality Maintenance",
+            "YouTube Channel & Video Optimization",
+            "LinkedIn Keyword Research And Targeting"
+        ],
+        "rating": "4.6",
+        "duration": "5 Months",
+        "project": "15+",
+        "course_fee": "5500"
+    },
+    {
+        "id": "06",
+        "course_name": "Blockchain Technology",
+        "course_photo": "https://images.unsplash.com/photo-1643000867361-cd545336249b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=881&q=80",
+        "details": "As blockchain is a very secure and fast technology, the use of this new technology is increasing day by day in various public and private sectors including banking, commerce, healthcare, insurance, industry. Blockchain technology is expected to do the same in the way that Bitcoin has greatly impacted the current economy. So with the rise in popularity of cryptocurrencies, the use of blockchain systems is increasing, especially in the banking sector. Our course has been developed keeping in mind the needs of the times. Networks, Decentralized Application, Cryptographic Security will be taught in each subject course. Starting from the basics, every topic is taught by hand. Besides, the course has the opportunity of practical classes. So do not delay and secure your career in this new technology sector by enrolling today.",
+        "options": [
+            "Data Communication",
+            "Networking Components & Network Security",
+            "Cryptography & Encryption Algorithms",
+            "Google Webmaster Tool & Analytics",
+            "The Client-Server Model And Limitations",
+            "Blockchain Core Components",
+            "Bitcoin Proof Of Work And Consensus",
+            "Crypto Wallets And Application",
+            "Keyword Research (AdSense, Affiliate, Service)",
+            "Tokens And Tokenometrics (ERC20)",
+            "Associated Blockchain Technologies",
+            "Further Application Of Blockchain",
+            "Blockchain Case: Bitcoin Analysis",
+            "Introduction To Ethereum",
+            "NFTs",
+            "Business Blockchain Technologies/Solutions",
+            "Technical And Non-technical Interview Preparation"
+        ],
+        "rating": "4.5",
+        "duration": "6 Months",
+        "project": "18+",
+        "course_fee": "8000"
+    }
+]
