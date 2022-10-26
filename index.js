@@ -22,6 +22,12 @@ app.get('/course/:id', (req, res) => {
     res.send(selectedCourse);
 })
 
+app.get('/checkout/:id', (req, res) => {
+    const id = req.params.id;
+    const enrollData = courseDetails.find(data => data.id === id);
+    res.send(enrollData);
+})
+
 app.listen(port, () => {
     console.log('technology-world-server', port)
 })
